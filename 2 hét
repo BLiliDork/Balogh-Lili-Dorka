@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <title>Cicák világa</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #ffeaff;
+            margin: 20px;
+        }
+        header {
+            background-color: #8e6c9a;
+            padding: 15px;
+            text-align: center;
+            border-radius: 10px;
+        }
+        section {
+            margin-top: 20px;
+        }
+        img {
+            width: 300px;
+            border-radius: 10px;
+            margin: 10px;
+        }
+        table {
+            border-collapse: collapse;
+            width: 60%;
+            margin-top: 10px;
+        }
+        table, th, td {
+            border: 1px solid #333;
+            padding: 8px;
+            text-align: center;
+        }
+        th {
+            background-color: #886090;
+        }
+        footer {
+            margin-top: 30px;
+            text-align: center;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Zutyus</h1>
+    <p>Szeretem a cicákat</p>
+</header>
+
+<section>
+    <h2>Miért szeretjük a cicákat?</h2>
+    <p>
+        A cicák aranyosak, játékosak és nagyon szerethető háziállatok. 
+        Sok ember számára megnyugtató a jelenlétük, és kiváló társak a mindennapokban. 
+        Nekem is van egy cicám csak sajnos nemszeret.
+    </p>
+</section>
+
+<section>
+    <h2>Miért szeretem a macskám?</h2>
+    <ul>
+        <li>buta</li>
+        <li>husis</li>
+        <li>aranyos</li>
+        <li>fess</li>
+    </ul>
+
+    <h3>Miért jó cicát tartani?</h3>
+    <ol>
+        <li>Önálló állatok</li>
+        <li>Tiszták</li>
+        <li>Játékosak</li>
+        <li>Stresszcsökkentő hatásúak</li>
+    </ol>
+</section>
+
+<section>
+    <h2>Képek a macskámról</h2>
+    <img src="Zutyus1.jpg" alt="Zutyus 1">
+    <img src="zutyus2.jpg" alt="Zutyus 2">
+    <img src="Zutyus3.jpg" alt="Zutyus 3">
+</section>
+
+<section>
+    <h2>Cicafajták összehasonlítása</h2>
+    <table>
+        <tr>
+            <th>Fajta</th>
+            <th>Méret</th>
+            <th>Szőr</th>
+            <th>Természet</th>
+        </tr>
+        <tr>
+            <td>Maine Coon</td>
+            <td>Nagy</td>
+            <td>Hosszú</td>
+            <td>Barátságos</td>
+        </tr>
+        <tr>
+            <td>Sziámi</td>
+            <td>Közepes</td>
+            <td>Rövid</td>
+            <td>Beszédes</td>
+        </tr>
+        <tr>
+            <td>Perzsa</td>
+            <td>Közepes</td>
+            <td>Hosszú</td>
+            <td>Nyugodt</td>
+        </tr>
+    </table>
+</section>
+
+<section>
+    <h2>Hasznos link</h2>
+    <p>
+        További információ cicákról:
+        <a href="https://hu.wikipedia.org/wiki/Macska" target="_blank">
+            Macska – Wikipédia
+        </a>
+    </p>
+</section>
+
+<footer>
+    <p>Balogh Lili Dorka EXTVJC</p>
+</footer>
+
+</body>
+</html>
